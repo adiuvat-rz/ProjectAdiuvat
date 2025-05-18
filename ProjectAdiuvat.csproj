@@ -107,9 +107,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="xorpress.ico" />
+    <Content Include="xorpress\XMLFile1.xml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="xorpress\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
