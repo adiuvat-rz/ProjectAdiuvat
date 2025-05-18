@@ -87,7 +87,7 @@ The solution contains two projects within a single Visual Studio 2022 solution f
 ```powershell
 # Compress a single file via GUI:
 # 1. Launch ProjectAdiuvat.exe
-# 2. Enter key: 5A,2E,98,CE and level: 6
+# 2. Enter key: 5A,2E,98,CE and level: 1 by default
 # 3. Load .dec files and click "Compress".
 
 # Programmatic call in C#:
