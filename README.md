@@ -88,7 +88,7 @@ The solution contains two projects within a single Visual Studio 2022 solution f
 # Compress a single file via GUI:
 # 1. Launch ProjectAdiuvat.exe
 # 2. Enter key: 5A,2E,98,CE and level: 1 by default
-# 3. Load .dec files and click "Compress".
+# 3. Load .dec files and click "Deflate".
 
 # Programmatic call in C#:
 int result = NativeMethods.CompressFilePathEx(
